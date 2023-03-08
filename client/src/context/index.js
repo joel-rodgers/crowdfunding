@@ -1,0 +1,1 @@
+//This will store all our web3 logic and then wrap our application with this context so that every single page and component can use it without any problems
